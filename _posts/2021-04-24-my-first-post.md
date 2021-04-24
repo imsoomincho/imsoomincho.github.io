@@ -6,6 +6,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [test, book]
+readtime: true
 ---
 
 A Thousand Blues is a sci fi written by a Korean author, Cheon Seon-Ran. It talks about the relationship between a jockey robot named “Collie”, and a racehorse, “Today” that will be euthanized. The only goal of Collie is to prevent Today from enthanization by making him participate in one more race to prove that it is worth keeping Today alive.
