@@ -3,7 +3,7 @@ layout: post
 title: A Thousand Blues
 subtitle: 천 개의 파랑, 천선란
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/today_thumb.png
+thumbnail-img: /assets/img/today_thumb.jpeg
 <!--share-img: /assets/img/path.jpg-->
 tags: [test, book]
 readtime: true

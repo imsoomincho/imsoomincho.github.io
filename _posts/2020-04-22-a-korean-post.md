@@ -3,7 +3,7 @@ layout: post
 title: 
 <!--subtitle: Each post also has a subtitle-->
 tags: [test, korean]
-thumbnail-img: /assets/img/korean_thumb.png
+thumbnail-img: /assets/img/korean_thumb.jpeg
 comments: true
 ---
 
