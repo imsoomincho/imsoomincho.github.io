@@ -1,15 +1,18 @@
 ---
 layout: post
-title: My first post
-subtitle: It's my progress
+title: A Thousand Blues
+subtitle: 천 개의 파랑, 천선란
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/today_thumb.png
+<!--share-img: /assets/img/path.jpg-->
 tags: [test, book]
 readtime: true
+comments: true
 ---
 
 A Thousand Blues is a sci fi written by a Korean author, Cheon Seon-Ran. It talks about the relationship between a jockey robot named “Collie”, and a racehorse, “Today” that will be euthanized. The only goal of Collie is to prevent Today from enthanization by making him participate in one more race to prove that it is worth keeping Today alive.
+
+![Today](/assets/img/today.jpg){: .mx-auto.d-block :}
 
 Working in the Human Factors Psychology lab, I was getting interested in Human-Computer Interaction (HCI) and Human-Robot Interaction (HRI). The possibility of transferring human traits to non-human objects such as computers and robots was fascinating. Before reading this book, I was not familiar with how complex it would be if robots could think and feel emotions as people do. 
 

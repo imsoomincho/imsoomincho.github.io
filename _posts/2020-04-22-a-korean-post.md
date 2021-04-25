@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Korean testing
+title: 
 <!--subtitle: Each post also has a subtitle-->
 tags: [test, korean]
+thumbnail-img: /assets/img/korean_thumb.png
 comments: true
 ---
 
