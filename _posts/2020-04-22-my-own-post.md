@@ -6,7 +6,7 @@ tags: [test, korean]
 comments: true
 ---
 
-**책에서 사랑에 대한 이야기를 많이 하셨는데요. 세상에서 가장 힘든 사랑은 어떤 걸까요?
+**책에서 사랑에 대한 이야기를 많이 하셨는데요. 세상에서 가장 힘든 사랑은 어떤 걸까요?**
 
 ![jeju](/assets/img/jeju.jpg){: .mx-auto.d-block :}
 
